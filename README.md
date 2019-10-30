@@ -10,7 +10,7 @@ A project maintained by Alibaba.
 See the [中文文档](https://github.com/alibaba/spring-cloud-alibaba/blob/master/README-zh.md) for Chinese readme.
 
 自己撸了一遍,仅以此学习并纪念。
-自行下载nacos和Sentinel客户端并运行。
+自行下载nacos和Sentinel客户端并运行。  
 http://localhost:8848/nacos  
 user:nacos  
 password:nacos  
